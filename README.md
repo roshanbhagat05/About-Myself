@@ -11,18 +11,16 @@ Welcome to my GitHub profile! I'm a passionate developer who loves exploring new
 ## 🚀 Projects & Contributions
 
 Take a look at some of my work:
-- **[Project Name 1](#):** A brief description of what this project does and the technologies behind it.
-- **[Project Name 2](#):** Another project highlighting my skills in [language/framework].
-- **[Project Name 3](#):** An innovative solution in [your domain], showcasing my ability to tackle complex challenges.
-
-*(Feel free to click on the repository names above to dive into the details of each project.)*
+Financial Tracker: A Python-based personal finance application for tracking income, expenses, and generating reports.
+Digital Clock: A real-time clock application built with Python and Tkinter, displaying hours, minutes, and seconds dynamically.
+Plant Disease Detection System: An AI-powered tool leveraging machine learning to identify plant diseases from images and provide diagnostic insights.
 
 ## 💻 Tech Stack
 
 Here are some of the technologies and tools I work with regularly:
 
-- **Languages:** Python, JavaScript, C/C++, and more.
-- **Frameworks & Libraries:** [Add your frameworks here, e.g., React, Node.js]
+- **Languages:** Python, JavaScript, C/C++, HTML & CSS and more.
+- **Frameworks & Libraries:** React, NodeJS
 - **Tools:** Git, Docker, VS Code, etc.
 
 ## 📊 GitHub Stats
@@ -36,7 +34,7 @@ Here are some of the technologies and tools I work with regularly:
 I'm always excited to collaborate on innovative projects or just chat about new ideas in tech. You can reach me via:
 
 - **Email:** roshanbhagat162005@gmail.com
-- **LinkedIn:** [Roshan Bhagat](https://www.linkedin.com/in/roshanbhagat)
+- **LinkedIn:** [Roshan Bhagat](www.linkedin.com/in/roshanbhagat2005)
 
 ---
 
