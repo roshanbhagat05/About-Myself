@@ -34,7 +34,8 @@ Here are some of the technologies and tools I work with regularly:
 I'm always excited to collaborate on innovative projects or just chat about new ideas in tech. You can reach me via:
 
 - **Email:** roshanbhagat162005@gmail.com
-- **LinkedIn:** [Roshan Bhagat](www.linkedin.com/in/roshanbhagat2005)
+
+📌 Connect with me on LinkedIn: www.linkedin.com/in/roshanbhagat2005
 
 ---
 
